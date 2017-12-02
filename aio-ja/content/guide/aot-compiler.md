@@ -1,4 +1,4 @@
-# The Ahead-of-Time (AOT) Compiler
+# 事前 (AOT) コンパイラ
 
 The Angular Ahead-of-Time (AOT) compiler converts your Angular HTML and TypeScript code into efficient JavaScript code during the build phase _before_ the browser downloads and runs that code.
 
